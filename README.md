@@ -33,7 +33,7 @@ FUNCTIONS:
    Division(int a, int b)
    
  Example:
- 	mathFunctions.Plus(2,b);
+ 	mathFunctions.Plus(2,6);
   
   
 	
