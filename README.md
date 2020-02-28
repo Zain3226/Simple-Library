@@ -43,7 +43,8 @@ Step 4. Call Functions:
 	   
 	   
 Example:
-	  mathFunctions.Plus(2,6);
+	
+	mathFunctions.Plus(2,6);
 	 
 	
   
