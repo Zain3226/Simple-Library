@@ -16,10 +16,20 @@ Step 1. Add the JitPack repository to your build file
 	        implementation 'com.github.Zain3226:Simple-Library:1.0'
 	}
 	
+	
+	
+	
+	
 Intailize the Class: 
+
   MathFunctions mathFunctions=new MathFunctions();
 
+
+
+
 FUNCTIONS:
+
+
  1:Plus
   Plus(int a, int b)
  
@@ -31,6 +41,10 @@ FUNCTIONS:
    
  4:Divison
    Division(int a, int b)
+   
+   
+   
+   
    
  Example:
  	mathFunctions.Plus(2,6);
