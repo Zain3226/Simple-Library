@@ -15,10 +15,13 @@ public class MathFunctions {
     }
 
     public static float Division(int a, int b){
+
         if(b==0){
+
             throw new IllegalArgumentException("Divide by zero Error");
         }
         else {
+
             return a/b;
         }
     }
